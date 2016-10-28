@@ -12,5 +12,5 @@
 
 ## Technology
 
-TECBOT is based on Watson Conversation technology 
-for more information visit -> https://console.ng.bluemix.net/catalog/services/conversation/
+TECBOT is based on Watson Conversation technology, for more information visit 
+https://console.ng.bluemix.net/catalog/services/conversation/
